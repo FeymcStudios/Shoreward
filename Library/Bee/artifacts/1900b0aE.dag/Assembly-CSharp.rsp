@@ -379,7 +379,6 @@
 "Assets/Scripts/CameraSystem.cs"
 "Assets/Scripts/characterController2.cs"
 "Assets/Scripts/ExitGame.cs"
-"Assets/Scripts/kamera.cs"
 "Assets/Scripts/movement2.cs"
 "Assets/Scripts/NpcAI.cs"
 -langversion:9.0
