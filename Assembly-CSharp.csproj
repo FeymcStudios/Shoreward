@@ -79,6 +79,7 @@
     <Compile Include="Assets\AkshayDhotre\GraphicSettingsFree\Scripts\Options\ResolutionOption.cs" />
     <Compile Include="Assets\AkshayDhotre\GraphicSettingsFree\Scripts\Core\XML\XmlManager.cs" />
     <Compile Include="Assets\Scripts\movement2.cs" />
+    <Compile Include="Assets\Scripts\kamera.cs" />
     <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\AkshayDhotre\GraphicSettingsFree\Demo\Scripts\CubeController.cs" />
   </ItemGroup>

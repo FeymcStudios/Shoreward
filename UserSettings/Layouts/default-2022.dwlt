@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 67
+  controlID: 66
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -445,7 +445,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 6}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -973,7 +973,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.29908416, y: 0.2831658, z: -0.09273771, w: 0.90680677}
     speed: 2
-    m_Value: {x: 0.2976444, y: 0.28322926, z: -0.092287846, w: 0.9070126}
+    m_Value: {x: 0.2990045, y: 0.28309038, z: -0.09271301, w: 0.90656525}
   m_Size:
     m_Target: 15.529694
     speed: 2
