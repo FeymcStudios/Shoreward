@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/GirisSahnesi.unity
     guid: ce5010e4d33266f4db90448c5898e7ea
   - enabled: 1
-    path: Assets/Scenes/DemoBolum.unity
+    path: Assets/Scenes/Ara Sahne.unity
+    guid: bc25c44b460d8e348b47639034e8b383
+  - enabled: 1
+    path: Assets/Scenes/Ada.unity
     guid: 312c06a80436598449435c1ba60d99ea
+  - enabled: 1
+    path: Assets/Scenes/Orman.unity
+    guid: e8a2fedacfe2865479ec447ee3d3a884
   m_configObjects: {}
