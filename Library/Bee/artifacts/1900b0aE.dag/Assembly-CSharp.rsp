@@ -378,11 +378,9 @@
 "Assets/Scripts/ButtonScript.cs"
 "Assets/Scripts/CameraSystem.cs"
 "Assets/Scripts/characterController2.cs"
-"Assets/Scripts/DenemeScript.cs"
 "Assets/Scripts/ExitGame.cs"
 "Assets/Scripts/movement2.cs"
 "Assets/Scripts/NpcAI.cs"
-"Assets/Scripts/randomNPC.cs"
 -langversion:9.0
 
 /deterministic
