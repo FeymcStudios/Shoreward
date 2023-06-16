@@ -15,7 +15,7 @@ C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-50727
+50824
 Successfully changed project path to: C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
 C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,11 +49,11 @@ C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [16580] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 2536448228 [EditorId] 2536448228 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [5452] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 1909103158 [EditorId] 1909103158 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [16580] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 2536448228 [EditorId] 2536448228 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [5452] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 1909103158 [EditorId] 1909103158 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 93.30 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 17.98 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.2f1 (d74737c6db50)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -69,48 +69,48 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.015422 seconds.
-- Loaded All Assemblies, in  0.541 seconds
+Registered in 0.021548 seconds.
+- Loaded All Assemblies, in  0.753 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.386 seconds
-Domain Reload Profiling: 925ms
-	BeginReloadAssembly (141ms)
+- Finished resetting the current domain, in  0.567 seconds
+Domain Reload Profiling: 1316ms
+	BeginReloadAssembly (163ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (50ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (103ms)
-	LoadAllAssembliesAndSetupDomain (231ms)
-		LoadAssemblies (138ms)
+	RebuildCommonClasses (74ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (133ms)
+	LoadAllAssembliesAndSetupDomain (361ms)
+		LoadAssemblies (163ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (221ms)
-			TypeCache.Refresh (219ms)
-				TypeCache.ScanAssembly (196ms)
-			ScanForSourceGeneratedMonoScriptInfo (0ms)
+		AnalyzeDomain (350ms)
+			TypeCache.Refresh (347ms)
+				TypeCache.ScanAssembly (316ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (387ms)
+	FinalizeReload (568ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (305ms)
+		SetupLoadedEditorAssemblies (441ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (15ms)
-			SetLoadedEditorAssemblies (10ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (16ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (193ms)
-			ProcessInitializeOnLoadMethodAttributes (84ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (308ms)
+			ProcessInitializeOnLoadMethodAttributes (92ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -120,53 +120,53 @@ Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\sonic\OneDrive\Belgeler\GitHub\Shoreward\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\sonic\OneDrive\Belgeler\GitHub\Shoreward\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  1.157 seconds
-Refreshing native plugins compatible for Editor in 14.75 ms, found 4 plugins.
+- Loaded All Assemblies, in  1.141 seconds
+Refreshing native plugins compatible for Editor in 5.66 ms, found 4 plugins.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.210 seconds
-Domain Reload Profiling: 2361ms
-	BeginReloadAssembly (165ms)
+- Finished resetting the current domain, in  1.271 seconds
+Domain Reload Profiling: 2409ms
+	BeginReloadAssembly (211ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (12ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (29ms)
-	RebuildCommonClasses (46ms)
-	RebuildNativeTypeToScriptingClass (14ms)
-	initialDomainReloadingComplete (67ms)
-	LoadAllAssembliesAndSetupDomain (859ms)
-		LoadAssemblies (397ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (809ms)
+		LoadAssemblies (422ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (528ms)
-			TypeCache.Refresh (489ms)
-				TypeCache.ScanAssembly (468ms)
-			ScanForSourceGeneratedMonoScriptInfo (30ms)
-			ResolveRequiredComponents (9ms)
-	FinalizeReload (1210ms)
+		AnalyzeDomain (490ms)
+			TypeCache.Refresh (429ms)
+				TypeCache.ScanAssembly (411ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (35ms)
+	FinalizeReload (1272ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (953ms)
+		SetupLoadedEditorAssemblies (904ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (14ms)
+			InitializePlatformSupportModulesInManaged (10ms)
 			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (117ms)
-			ProcessInitializeOnLoadAttributes (778ms)
-			ProcessInitializeOnLoadMethodAttributes (28ms)
-			AfterProcessingInitializeOnLoad (9ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (755ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (7ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (13ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 7.97 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 5.41 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4195 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 76 unused Assets / (1.5 MB). Loaded Objects now: 4678.
-Memory consumption went from 178.1 MB to 176.6 MB.
-Total: 8.773000 ms (FindLiveObjects: 0.503200 ms CreateObjectMapping: 0.501900 ms MarkObjects: 7.085300 ms  DeleteObjects: 0.680700 ms)
+Memory consumption went from 178.3 MB to 176.8 MB.
+Total: 6.109500 ms (FindLiveObjects: 0.339300 ms CreateObjectMapping: 0.395500 ms MarkObjects: 4.812300 ms  DeleteObjects: 0.561500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -182,9 +182,79 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 16052.094129 seconds.
-  path: Assets/Scenes/Orman.unity
-  artifactKey: Guid(e8a2fedacfe2865479ec447ee3d3a884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Orman.unity using Guid(e8a2fedacfe2865479ec447ee3d3a884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598228520277d18bb86ee4ea8be02ee5') in 0.005147 seconds
+  Time since last request: 16793.625611 seconds.
+  path: Assets/Prefabs/New Terrain.asset
+  artifactKey: Guid(9468d20cfb6a3d943a742182ee7caa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/New Terrain.asset using Guid(9468d20cfb6a3d943a742182ee7caa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree unit_tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ -> (artifact id: 'fb77143f4ab7242d52f65f2486aa5881') in 0.033294 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 259.685282 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_002.FBX
+  artifactKey: Guid(3cc8ceed2bb3b5f4a9e9467771637d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_002.FBX using Guid(3cc8ceed2bb3b5f4a9e9467771637d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f963b00baa4dfb11028db0bd8c980ba2') in 0.255927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_021.FBX
+  artifactKey: Guid(f7cdef7a105055640bba03bab476b137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_021.FBX using Guid(f7cdef7a105055640bba03bab476b137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702d0cb18966b90846a710347eb0ba9f') in 0.046624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_006.FBX
+  artifactKey: Guid(ecd59653cce0d314d81b743aa891d5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_006.FBX using Guid(ecd59653cce0d314d81b743aa891d5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afdacd89f1baf46c0605e31c6a4e242f') in 0.046164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_011.FBX
+  artifactKey: Guid(73775f10f905ad94aa5cd6ff8888e0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_011.FBX using Guid(73775f10f905ad94aa5cd6ff8888e0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643af09fec8558b0cecca230b1174992') in 0.044084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_016.FBX
+  artifactKey: Guid(fc49f40ca886f874787aa6141569b77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_016.FBX using Guid(fc49f40ca886f874787aa6141569b77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb34bc710c3ec794a1e93c940ffb0da') in 0.054731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_008.FBX
+  artifactKey: Guid(484329c3d4013544699af28658f81fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_008.FBX using Guid(484329c3d4013544699af28658f81fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741a09950341da41d7024469f792c3aa') in 0.042148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_018.FBX
+  artifactKey: Guid(3eb6d22e1ee27f84db4841d519d2f37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_018.FBX using Guid(3eb6d22e1ee27f84db4841d519d2f37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18cb63f12ee901177fd339b6c768ae14') in 0.039491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_014.FBX
+  artifactKey: Guid(659a71a0f583205408fcdbbd9792d83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_014.FBX using Guid(659a71a0f583205408fcdbbd9792d83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c0cbf327cde95249b39377cd3278f6') in 0.045233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Bir iþ parçacýðý çýkýþý veya bir uygulama isteði nedeniyle G/Ç iþlemi iptal edildi.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

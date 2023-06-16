@@ -15,7 +15,7 @@ C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50727
+50824
 Successfully changed project path to: C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
 C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,11 +49,11 @@ C:/Users/sonic/OneDrive/Belgeler/GitHub/Shoreward
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [2528] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 2513922265 [EditorId] 2513922265 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [5000] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 3111691398 [EditorId] 3111691398 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [2528] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 2513922265 [EditorId] 2513922265 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [5000] Host "[IP] 192.168.1.8 [Port] 0 [Flags] 2 [Guid] 3111691398 [EditorId] 3111691398 [Version] 1048832 [Id] WindowsEditor(7,MONSTER) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 91.92 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 19.26 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.2f1 (d74737c6db50)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -69,48 +69,48 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.015072 seconds.
-- Loaded All Assemblies, in  0.523 seconds
+Registered in 0.021265 seconds.
+- Loaded All Assemblies, in  0.761 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.389 seconds
-Domain Reload Profiling: 910ms
-	BeginReloadAssembly (142ms)
+- Finished resetting the current domain, in  0.579 seconds
+Domain Reload Profiling: 1335ms
+	BeginReloadAssembly (166ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (50ms)
+	RebuildCommonClasses (72ms)
 	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (102ms)
-	LoadAllAssembliesAndSetupDomain (210ms)
-		LoadAssemblies (139ms)
+	initialDomainReloadingComplete (132ms)
+	LoadAllAssembliesAndSetupDomain (370ms)
+		LoadAssemblies (168ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (199ms)
-			TypeCache.Refresh (198ms)
-				TypeCache.ScanAssembly (181ms)
+		AnalyzeDomain (356ms)
+			TypeCache.Refresh (354ms)
+				TypeCache.ScanAssembly (322ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (389ms)
+	FinalizeReload (580ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (299ms)
+		SetupLoadedEditorAssemblies (446ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (16ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (16ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (198ms)
-			ProcessInitializeOnLoadMethodAttributes (75ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (93ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -120,53 +120,53 @@ Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\sonic\OneDrive\Belgeler\GitHub\Shoreward\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\sonic\OneDrive\Belgeler\GitHub\Shoreward\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  1.190 seconds
-Refreshing native plugins compatible for Editor in 3.98 ms, found 4 plugins.
+- Loaded All Assemblies, in  1.117 seconds
+Refreshing native plugins compatible for Editor in 6.09 ms, found 4 plugins.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.310 seconds
-Domain Reload Profiling: 2495ms
-	BeginReloadAssembly (170ms)
+- Finished resetting the current domain, in  1.212 seconds
+Domain Reload Profiling: 2325ms
+	BeginReloadAssembly (208ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
+		DisableScriptedObjects (11ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (32ms)
-	RebuildCommonClasses (57ms)
+	RebuildCommonClasses (51ms)
 	RebuildNativeTypeToScriptingClass (15ms)
-	initialDomainReloadingComplete (63ms)
-	LoadAllAssembliesAndSetupDomain (879ms)
-		LoadAssemblies (400ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (785ms)
+		LoadAssemblies (423ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (552ms)
-			TypeCache.Refresh (488ms)
-				TypeCache.ScanAssembly (471ms)
-			ScanForSourceGeneratedMonoScriptInfo (30ms)
-			ResolveRequiredComponents (34ms)
-	FinalizeReload (1311ms)
+		AnalyzeDomain (464ms)
+			TypeCache.Refresh (428ms)
+				TypeCache.ScanAssembly (409ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1213ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (957ms)
+		SetupLoadedEditorAssemblies (937ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (12ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (115ms)
-			ProcessInitializeOnLoadAttributes (783ms)
-			ProcessInitializeOnLoadMethodAttributes (32ms)
-			AfterProcessingInitializeOnLoad (9ms)
+			BeforeProcessingInitializeOnLoad (117ms)
+			ProcessInitializeOnLoadAttributes (759ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (11ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 5.26 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 6.98 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4195 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 76 unused Assets / (1.5 MB). Loaded Objects now: 4678.
-Memory consumption went from 178.1 MB to 176.6 MB.
-Total: 4.489400 ms (FindLiveObjects: 0.349100 ms CreateObjectMapping: 0.318800 ms MarkObjects: 3.383600 ms  DeleteObjects: 0.436700 ms)
+Memory consumption went from 178.3 MB to 176.8 MB.
+Total: 6.988100 ms (FindLiveObjects: 0.551000 ms CreateObjectMapping: 0.463800 ms MarkObjects: 5.270400 ms  DeleteObjects: 0.701300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -182,9 +182,230 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 16069.206200 seconds.
-  path: Assets/Scenes/GirisSahnesi.unity
-  artifactKey: Guid(ce5010e4d33266f4db90448c5898e7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GirisSahnesi.unity using Guid(ce5010e4d33266f4db90448c5898e7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ef89b91efa2cf248513d050bbb661e') in 0.004743 seconds
+  Time since last request: 16793.532935 seconds.
+  path: Assets/Prefabs/unit_tree.fbx
+  artifactKey: Guid(2211963face427a4aa43365ed24bacac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/unit_tree.fbx using Guid(2211963face427a4aa43365ed24bacac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f94d4ea8a14cccd522746c4f96d5f5c') in 0.182065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 254.368974 seconds.
+  path: Assets/Prefabs/Fbx
+  artifactKey: Guid(71415079321d0ce48a292eab13eaa8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Fbx using Guid(71415079321d0ce48a292eab13eaa8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cfa9dbbd824c3534f5cf786ced6cfc') in 0.000908 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.227075 seconds.
+  path: Assets/Prefabs/agac
+  artifactKey: Guid(71415079321d0ce48a292eab13eaa8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac using Guid(71415079321d0ce48a292eab13eaa8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5d416d402c3cb346e6ca2e5d027f56') in 0.000595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.025664 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_001.FBX
+  artifactKey: Guid(5604eff7e035adb4095d7572c94937a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_001.FBX using Guid(5604eff7e035adb4095d7572c94937a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8863c96f48ffd910694e927d407334fa') in 0.041849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_005.FBX
+  artifactKey: Guid(06313fe1a7686f34fa06e50fda041429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_005.FBX using Guid(06313fe1a7686f34fa06e50fda041429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e33d9df5c35c64898bb56be77fb9f02') in 0.058511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_015.FBX
+  artifactKey: Guid(55725528b8c138c41a53d1115e214840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_015.FBX using Guid(55725528b8c138c41a53d1115e214840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ce70b746976b539da710c869e11014') in 0.052814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_010.FBX
+  artifactKey: Guid(b66edc68a17c11a4abff04853a24f517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_010.FBX using Guid(b66edc68a17c11a4abff04853a24f517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83af976884da03e31c34c8e81d5b8a2e') in 0.051205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_019.FBX
+  artifactKey: Guid(34537de0504b33547b8f1e9c08ac1568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_019.FBX using Guid(34537de0504b33547b8f1e9c08ac1568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a40520d5a50f87ecd53a7bcd88a45f') in 0.050236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_013.FBX
+  artifactKey: Guid(eee8e4a8493d8ff4cbecd8b7b505de31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_013.FBX using Guid(eee8e4a8493d8ff4cbecd8b7b505de31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b31acd58b65e3caadcb804aed619240') in 0.043887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_004.FBX
+  artifactKey: Guid(cc0edcbb3cc87a7409c04ad00a0c2834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_004.FBX using Guid(cc0edcbb3cc87a7409c04ad00a0c2834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f6c1a2723f8f5e93532cc01cea34fc') in 0.051549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_020.FBX
+  artifactKey: Guid(4390fc31e537ac44baa9181139f3dbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_020.FBX using Guid(4390fc31e537ac44baa9181139f3dbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c519faa6df4a3a503a318eb82f02199') in 0.044762 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_003.FBX
+  artifactKey: Guid(6380d531dc7ba8f48b880456ad4e5923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_003.FBX using Guid(6380d531dc7ba8f48b880456ad4e5923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77b21319ece1fb4cc2e43c22d5b8588') in 0.044893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_009.FBX
+  artifactKey: Guid(4a3313a05d0fc984fbfed1463b2dd241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_009.FBX using Guid(4a3313a05d0fc984fbfed1463b2dd241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd33333de64e01b9ac81c5447daa23d8') in 0.038859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_012.FBX
+  artifactKey: Guid(68756db28c2c13f49b9a308c1266eb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_012.FBX using Guid(68756db28c2c13f49b9a308c1266eb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299700ea72caeb449c4a2d991442eabf') in 0.038477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_017.FBX
+  artifactKey: Guid(52ec352b3d313a648a02d280055b0e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_017.FBX using Guid(52ec352b3d313a648a02d280055b0e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '337c5ca54838ab2c2bc04cd8ab01a7e0') in 0.044913 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Prefabs/agac/Tree_temp_climate_007.FBX
+  artifactKey: Guid(d7f7d8e6dc63c594e8f5588c89166584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/agac/Tree_temp_climate_007.FBX using Guid(d7f7d8e6dc63c594e8f5588c89166584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7629c01cf1fb4202835ac46c07cd38c') in 0.040680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 24.338487 seconds.
+  path: Assets/Prefabs/AkshayDhotre/GraphicSettingsFree/Demo/Materials/Wall.mat
+  artifactKey: Guid(b6c59b3aad84dc849bcb346848933190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AkshayDhotre/GraphicSettingsFree/Demo/Materials/Wall.mat using Guid(b6c59b3aad84dc849bcb346848933190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f27fcb600044ca051ccc6ad2d1133af') in 0.025853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 42.069825 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_002.FBX
+  artifactKey: Guid(e336dba217237a145a366e81c434255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_002.FBX using Guid(e336dba217237a145a366e81c434255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cd48f52b14a5af2496281ac9208335') in 0.050945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_015.FBX
+  artifactKey: Guid(d88cbcfd63674544eb26f4b5df87ea06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_015.FBX using Guid(d88cbcfd63674544eb26f4b5df87ea06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d7d31357b9d2e24edb44982763495d') in 0.048262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_006.FBX
+  artifactKey: Guid(dd28d7d6a0ae0814a904e0a4a5bb1fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_006.FBX using Guid(dd28d7d6a0ae0814a904e0a4a5bb1fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551b75081ed119bf70e28e0bcaa92e60') in 0.062991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_007.FBX
+  artifactKey: Guid(3f4c0b6dfff93fe4dbec2feb0eeedc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_007.FBX using Guid(3f4c0b6dfff93fe4dbec2feb0eeedc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e59e7c8820fd762d7be3c141bb3c9a') in 0.053029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_009.FBX
+  artifactKey: Guid(85c48a37fd370f44aa5a14469753d01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_009.FBX using Guid(85c48a37fd370f44aa5a14469753d01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6513c8a2935244bfe82e701113160c') in 0.052373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_020.FBX
+  artifactKey: Guid(792751b4eebb0b641bf3d9520c40cf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_020.FBX using Guid(792751b4eebb0b641bf3d9520c40cf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35cf953a61f3c41e97447b09bb5c5fa') in 0.048399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_008.FBX
+  artifactKey: Guid(ff1da6805118e7f4b864c570aee50b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_008.FBX using Guid(ff1da6805118e7f4b864c570aee50b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5556f01efa0bcd614e05d49c9e1df064') in 0.055125 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_017.FBX
+  artifactKey: Guid(21b923244900b3d4b8ac704b5f056d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_017.FBX using Guid(21b923244900b3d4b8ac704b5f056d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3188f8373cf61e4cdb752b044455f7') in 0.048232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_016.FBX
+  artifactKey: Guid(46ff5f52ded30cc4ab2a4a902b788e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_016.FBX using Guid(46ff5f52ded30cc4ab2a4a902b788e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c1065a79ac22c8b7fa6d00e806d50c') in 0.045518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_012.FBX
+  artifactKey: Guid(1e4c54eda99f80949937152d5cfbd613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_012.FBX using Guid(1e4c54eda99f80949937152d5cfbd613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c924af3f41e00f3b607a6e7851a908d4') in 0.050186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_013.FBX
+  artifactKey: Guid(59de53cd7fc12dd44b4b0c8f254213d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_013.FBX using Guid(59de53cd7fc12dd44b4b0c8f254213d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39e2f5a645a23e70d6f68e233678b2c') in 0.045963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Bir iþ parçacýðý çýkýþý veya bir uygulama isteði nedeniyle G/Ç iþlemi iptal edildi.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
