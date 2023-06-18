@@ -49,37 +49,47 @@
 
 
 ## Product Backlog URL
+[Unity Team 130 Miro Backlog Board](https://miro.com/app/board/uXjVM9pKeDE=/)
 
-Düzenlenecek...
+
 
 # Sprint 1
 
-!!! Taslak Düzenlenecektir !!!
-
 + **Sprint Notları**:
 
-+ **Sprint içinde tamamlanması tahmin edilen puan**:
-+ **Puan tamamlama mantığı**:
++ **Sprint içinde tamamlanması tahmin edilen puan**: 100
++ **Puan tamamlama mantığı**: Proje boyunca tamamlanması tahmin edilen backloglara 400 puan verdik. Bu ilk sprint olduğu için 100 puanın tamamlanması gerektiğini düşündük.
 
-+ **Backlog düzeni ve Story seçimleri**:
-+ **Daily Scrum**:
++ **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
++ **Daily Scrum**: Daily Scrum dosyası içinde Product Owner arkadaşımız Mustafa'nın günlük konuşmalar ve eylemler sonucu tuttuğu **Eylem Takibi** notları ve developer arkadaşımızın tuttuğu **DevLog** notları yer almaktadır. 
+  
+[Sprint 1 Daily Scrum.docx](https://github.com/fabetul/U-130-Game/files/11782096/Sprint.1.Daily.Scrum.docx)
 
 
 + **Sprint board**
-  Ekran görüntüsü:
+  Ekran görüntüsü:  
+<img width="549" alt="sprint board" src="https://github.com/fabetul/U-130-Game/assets/127511311/f03eceb5-519f-4987-97b4-631b9849376f">
+
+
 
 + **Ürün Durumu** 
-  Ekran görüntüsü:
+  Ekran görüntüsü:  ![1](https://github.com/fabetul/U-130-Game/assets/127511311/a60c52e8-d85a-47bc-a1fc-ed771d985f43)
 
-  
+![2](https://github.com/fabetul/U-130-Game/assets/127511311/b04364c0-b9b3-4948-9961-28650a5e4543)
+
+  ![3](https://github.com/fabetul/U-130-Game/assets/127511311/03e75921-1fa5-4e9f-97ac-55d8054bebad)
+![4](https://github.com/fabetul/U-130-Game/assets/127511311/f0a18282-50a8-4039-8fd5-f2772c1ad449)
+
+![5](https://github.com/fabetul/U-130-Game/assets/127511311/69295f24-e8ff-4329-9e20-c5fc2dfb796e)
+
+![6](https://github.com/fabetul/U-130-Game/assets/127511311/7eec4cc8-8c13-46e7-9f1d-4f933078d5d9)
+
 + **Sprint Review**: 
 
-  Alınan kararlar: 
-  Sprint Review katılımcıları:
+  Alınan kararlar: İlk sprintte katılımı az olan arkadaşların daha çok katılmasına karar verildi.  2. sprint için assetler üzerine çalışıp oyunun bu sprint içinde tamamen bitirilmesi ve 3. sprint sürecine sadece süslemeler ve eklenebilecek fazladan özellikler için zaman bırakılması hakkında konuşuldu.
+  + **Sprint Review katılımcıları:** Mustafa Aydemir, Fatma Betül Tokuşlu, Cengizhan Boz, Ece Sütçü, Yaren Sarı
 
 + **Sprint Retrospective:**
-
+Gelecek sprintlerde daha düzenli ve aktif olunması gerektiği hakkında konuşuldu. Oyunun 2. sprintte tamamen bitirilmesi kararlaştırıldı.
 # Sprint 2
 # Sprint 3
-
-
