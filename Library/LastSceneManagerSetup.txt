@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/orman2.unity
+- path: Assets/Scenes/orman2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
