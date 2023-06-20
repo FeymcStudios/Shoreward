@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GirisSahnesi.unity
+    path: Assets/Scenes/AnaMenu.unity
     guid: ce5010e4d33266f4db90448c5898e7ea
   - enabled: 1
     path: Assets/Scenes/Ara Sahne.unity

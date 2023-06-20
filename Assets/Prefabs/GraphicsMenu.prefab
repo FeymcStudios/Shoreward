@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20c469b2b1c274743bee9fa314ba88bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  filePath: C:\Users\sonic\Shoreward
+  filePath: C:\Users\sonic\OneDrive\Belgeler\GitHub\Shoreward
   fileName: MySettingsExampleScene.xml
 --- !u!114 &5377232458615234704
 MonoBehaviour:
@@ -553,7 +553,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2612342080078980524}
-  - {fileID: 807294396656964411}
+  - {fileID: 3294378988556429695}
   - {fileID: 5048472614033496403}
   m_Father: {fileID: 1190863749068898143}
   m_RootOrder: 2
@@ -1152,7 +1152,23 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 6721521619790629024}
   m_SourcePrefab: {fileID: 100100000, guid: a83788604e0320a4697e676bee71ee0b, type: 3}
---- !u!1 &807294396656964410 stripped
+--- !u!114 &2593872296304065046 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2939545323360020783, guid: a83788604e0320a4697e676bee71ee0b, type: 3}
+  m_PrefabInstance: {fileID: 807294396656964409}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!224 &3294378988556429695 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2775318830485633606, guid: a83788604e0320a4697e676bee71ee0b, type: 3}
+  m_PrefabInstance: {fileID: 807294396656964409}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9175373984596667097 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8386107123839826400, guid: a83788604e0320a4697e676bee71ee0b, type: 3}
   m_PrefabInstance: {fileID: 807294396656964409}
@@ -1163,13 +1179,13 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 807294396656964410}
+  m_GameObject: {fileID: 9175373984596667097}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b0a03a7e9347c804789b4606be167f92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  subOptionText: {fileID: 807294396656964412}
+  subOptionText: {fileID: 2593872296304065046}
   subOptionList:
   - name: ExclusiveFullScreen
     integerValue: 0
@@ -1204,22 +1220,6 @@ MonoBehaviour:
     indexInList: 0
     vector2Value: {x: 0, y: 0}
     boolVal: 0
---- !u!224 &807294396656964411 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 2775318830485633606, guid: a83788604e0320a4697e676bee71ee0b, type: 3}
-  m_PrefabInstance: {fileID: 807294396656964409}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &807294396656964412 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2939545323360020783, guid: a83788604e0320a4697e676bee71ee0b, type: 3}
-  m_PrefabInstance: {fileID: 807294396656964409}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &6956987053591323413
 PrefabInstance:
   m_ObjectHideFlags: 0
