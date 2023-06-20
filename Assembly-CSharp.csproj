@@ -71,6 +71,7 @@
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Helpers\GraphicSettingHelperMethods.cs" />
     <Compile Include="Assets\Prefabs\AQUAS-Lite\Scripts\AQUAS_Lite_Reflection.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Options\QualityLevelOption.cs" />
+    <Compile Include="Assets\Scripts\npcKod.cs" />
     <Compile Include="Assets\Prefabs\AQUAS-Lite\Scripts\AQUAS_Lite_CamNav.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Demo\Scripts\CameraController.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Core\XML\XmlManager.cs" />

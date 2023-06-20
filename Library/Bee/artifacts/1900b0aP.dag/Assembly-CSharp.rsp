@@ -337,6 +337,7 @@
 "Assets/Scripts/ExitGame.cs"
 "Assets/Scripts/movement2.cs"
 "Assets/Scripts/NpcAI.cs"
+"Assets/Scripts/npcKod.cs"
 -langversion:9.0
 
 /deterministic

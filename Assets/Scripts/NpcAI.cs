@@ -29,6 +29,16 @@ using UnityEngine.UI;
         }
         GetComponent<NavMeshAgent>().destination = M_Player.position;
 
+        if (M_Player != null && Vector3.Distance(transform.position, M_Player.position) <= player.stoppingDistance)
+        {
+            transform.LookAt(M_Player);
+            playerAnimator.SetBool("isNearby", true);
+        }
+        else if (M_Player != null && Vector3.Distance(transform.position, M_Player.position) > player.stoppingDistance)
+        {
+            playerAnimator.SetBool("isNearby", false);
+        }
+
     }
 
 
