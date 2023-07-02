@@ -17,9 +17,9 @@
 
 ## Oyunun İsmi
 
-***Shoreward**
+**Shoreward ⚔️**
 
-## Oyunun Açıklaması
+## 📜 Oyunun Açıklaması
 
 - İzometrik 3D ve 2.5D karakter tasarımın hakim olduğu ,strateji ağırlıklı ve minimalist tasarımlara sahip gerçek zamanlı aksiyon/strateji oyunudur.
 - Oyunumuz Karanlık ortaçağ döneminde haydut istilaları'nın yaygın olduğu bir dönemde küçük bir krallığın topraklarında geçmektedir.
@@ -29,7 +29,7 @@
 - Askerler her püskürttüğü saldırı sonrası haydutlardan kazandığı kaynaklar ile kendini geliştirmekte ve dalga halinde gelen saldırıları güçlü bir şekilde tekrar püskürtmektedir.
 - Her köy kurtarıldığında Askerlerimiz birliklerini genişletmekte ve Haydutlar ise bu güçlenmeye karşı hazırlıklar yapmaktadır. 
 
-## Oyunun Özellikleri
+## 🕹️ Oyunun Özellikleri
 
 - Yapılan tasarım Karanlık ortaçağ atmosferini yansıtmaktadır.
 - Müzikler dönemine özgü enstrumanlar referans alınarak oluşturulmuştur.
@@ -38,7 +38,7 @@
 - İzometrik 3D ve 2.5D karakter ile yapılan sevimli grafiklere sahip bölüm tasarımları
 - Ekstra özellikler sunan DLC paketlerinin sunulması.
 
-## Hedef Kitle
+## 🔷 Hedef Kitle
 
 - Karanlık Ortaçağ Atmosferi hayranları
 - Strateji ve birlik yönetimi tarzına hakim kişiler
