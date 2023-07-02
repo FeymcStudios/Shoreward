@@ -61,7 +61,7 @@
 + **Puan tamamlama mantığı**: Proje boyunca tamamlanması tahmin edilen backloglara 400 puan verdik. Bu ilk sprint olduğu için 100 puanın tamamlanması gerektiğini düşündük.
 
 + **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
-+ **Daily Scrum**: Daily Scrum dosyası içinde Product Owner arkadaşımız Mustafa'nın günlük konuşmalar ve eylemler sonucu tuttuğu **Eylem Takibi** notları ve developer arkadaşımızın tuttuğu **DevLog** notları yer almaktadır. 
+**Daily Scrum**: Daily Scrum dosyası içinde Product Owner arkadaşımız Mustafa'nın günlük konuşmalar ve eylemler sonucu tuttuğu **Eylem Takibi** notları ve developer arkadaşımızın tuttuğu **DevLog** notları yer almaktadır. 
   
 [Sprint 1 Daily Scrum.docx](https://github.com/fabetul/U-130-Game/files/11782096/Sprint.1.Daily.Scrum.docx)
 
@@ -92,4 +92,32 @@
 + **Sprint Retrospective:**
 Gelecek sprintlerde daha düzenli ve aktif olunması gerektiği hakkında konuşuldu. Oyunun 2. sprintte tamamen bitirilmesi kararlaştırıldı.
 # Sprint 2
++ **Sprint Notları**: Bu sprintte istediğimiz kadar ilerleyemedik. Ama oyunu tamamlayabilmek için çaba sarfetmeye devam ediyoruz.
+
++ **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint içinde tamamlanması tahmin edilen puan 150'dir.
++ **Puan tamamlama mantığı**: Proje boyunca tamamlanması tahmin edilen backloglara 400 puan verdik. İkinci sprint için 150 puanın tamamlanması gerektiğini düşündük.
++ **Backlog düzeni ve Story seçimleri**: Backlog'umuz hikaye ve senaryoyu bitirme ve tasarımları bitirme üzerine oluşturulmuştur.  Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
++ **Daily Scrum**: İkinci sprint başlama tarihinden itibaren yapılan konuşmalar kaydedilmiştir.
+[Sprint 2 Daily Scrum.docx](https://github.com/FeymcStudios/Shoreward/files/11931392/Sprint.2.Daily.Scrum.docx)
+
++ **Sprint board**
+  Ekran Görüntüsü
+  
+<img width="730" alt="sprint 2 sprint board" src="https://github.com/FeymcStudios/Shoreward/assets/127511311/012f5b31-4771-4e92-99dd-5bb4703c954e">
+
++ **Ürün Durumu**
+  Ekran Görüntüsü:
+
+
+
+   + **Sprint Review**: 
+
+  Alınan kararlar: Katkı vermeyen katılımcılarla devem edilmemesine karar verildi. Tatile de denk geldiği için tatilin olmadığı günlere daha aktif ounması gerektiği üzerine konuşuldu. Oyunun senoryasu kakkında  son karara varıldı.
+  + **Sprint Review katılımcıları:** Mustafa Aydemir, Fatma Betül Tokuşlu, Cengizhan Boz, Ece Sütçü, Yaren Sarı **(inaktif)**
+
++ **Sprint Retrospective:** Son iki haftaya girmemiz sebebiyle kalan herkesin çok daha fazla katkı vermesi gerektiği kararlaştırıldı. 
+  
+  
+
+
 # Sprint 3
