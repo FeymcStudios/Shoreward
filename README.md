@@ -92,6 +92,8 @@
 + **Sprint Retrospective:**
 Gelecek sprintlerde daha düzenli ve aktif olunması gerektiği hakkında konuşuldu. Oyunun 2. sprintte tamamen bitirilmesi kararlaştırıldı.
 # Sprint 2
+## Product Backlog URL
+https://miro.com/app/board/uXjVM52tueE=/ 
 + **Sprint Notları**: Bu sprintte istediğimiz kadar ilerleyemedik. Ama oyunu tamamlayabilmek için çaba sarfetmeye devam ediyoruz.
 
 + **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint içinde tamamlanması tahmin edilen puan 150'dir.
@@ -107,6 +109,9 @@ Gelecek sprintlerde daha düzenli ve aktif olunması gerektiği hakkında konuş
 
 + **Ürün Durumu**
   Ekran Görüntüsü:
+![ud 1](https://github.com/FeymcStudios/Shoreward/assets/127511311/6f5507cf-a251-4d94-af8f-9251d301ef59)
+![ud 2](https://github.com/FeymcStudios/Shoreward/assets/127511311/43f73995-0c33-42a3-891f-22fbe6cc93f6)
+![ud 3](https://github.com/FeymcStudios/Shoreward/assets/127511311/2b362c0c-7619-40c9-ab14-91e87ce54809)
 
 
 
