@@ -97,7 +97,7 @@ https://miro.com/app/board/uXjVM52tueE=/
 + **Sprint Notları**: Bu sprintte istediğimiz kadar ilerleyemedik. Ama oyunu tamamlayabilmek için çaba sarfetmeye devam ediyoruz.
 
 + **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint içinde tamamlanması tahmin edilen puan 150'dir.
-+ **Puan tamamlama mantığı**: Proje boyunca tamamlanması tahmin edilen backloglara 400 puan verdik. İkinci sprint için 150 puanın tamamlanması gerektiğini düşündük.
++ **Puan tamamlama mantığı**: Proje boyunca tamamlanması tahmin edilen backloglara 400 puan verdik. İkinci sprint için 150 puanın tamamlanması gerektiğini düşündük. Ama araya tatilin de girmesi sebebiyle sadece 75 puan tamamlayabildik.
 + **Backlog düzeni ve Story seçimleri**: Backlog'umuz hikaye ve senaryoyu bitirme ve tasarımları bitirme üzerine oluşturulmuştur.  Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 + **Daily Scrum**: İkinci sprint başlama tarihinden itibaren yapılan konuşmalar kaydedilmiştir.
 [Sprint 2 Daily Scrum.docx](https://github.com/FeymcStudios/Shoreward/files/11931392/Sprint.2.Daily.Scrum.docx)
