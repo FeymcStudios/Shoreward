@@ -1,396 +1,399 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1687267630389519, "dur":5679, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630395230, "dur":859, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630396166, "dur":712, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630396907, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
-,{ "pid":12345, "tid":0, "ts":1687267630397077, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1687267630397171, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level0" }}
-,{ "pid":12345, "tid":0, "ts":1687267630397401, "dur":180, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level2.resS" }}
-,{ "pid":12345, "tid":0, "ts":1687267630397635, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level3.resS" }}
-,{ "pid":12345, "tid":0, "ts":1687267630397790, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":0, "ts":1687267630397864, "dur":156, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398157, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398214, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398327, "dur":147, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398540, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets3.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398771, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398919, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630398994, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399139, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399324, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399383, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399438, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399669, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399786, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630399998, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630400079, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630400252, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630400340, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630400399, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630400546, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630400750, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401093, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401236, "dur":162, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401402, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401458, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401544, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401664, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630401922, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402072, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402130, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402185, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402278, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402350, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402452, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402509, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402675, "dur":139, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402841, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402920, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630402999, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.Formats.Fbx.Runtime.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403187, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Autodesk.Fbx.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403276, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403372, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403474, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Cinemachine.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403549, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/FbxBuildTestAssets.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403616, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403711, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403777, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630403904, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630404154, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630404232, "dur":171, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630404447, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630404523, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630404752, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630404811, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405047, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward.exe" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405105, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405188, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405352, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405452, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405514, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":0, "ts":1687267630405663, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":0, "ts":1687267630406020, "dur":151, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":0, "ts":1687267630406214, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":0, "ts":1687267630396900, "dur":9401, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630406302, "dur":176036, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630582339, "dur":485, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630582906, "dur":158, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630583217, "dur":2898, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1687267630399457, "dur":7181, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630406639, "dur":11828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630418518, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630418689, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630418818, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":1, "ts":1687267630418948, "dur":476, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630419446, "dur":389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1687267630419433, "dur":403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1687267630419837, "dur":404, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420242, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420330, "dur":375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420328, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420707, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420818, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420879, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
-,{ "pid":12345, "tid":1, "ts":1687267630420877, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.AI.Navigation.dll" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421019, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421145, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421246, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421367, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421473, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421598, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421728, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630421913, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630422066, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630422238, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1687267630422465, "dur":18878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets3.assets" }}
-,{ "pid":12345, "tid":1, "ts":1687267630441385, "dur":140945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630398766, "dur":7804, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630406576, "dur":1907, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630408483, "dur":10097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630418599, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
-,{ "pid":12345, "tid":2, "ts":1687267630418581, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1687267630418747, "dur":672, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630419427, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1687267630419613, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630419938, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630420085, "dur":185, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630420279, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
-,{ "pid":12345, "tid":2, "ts":1687267630420276, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
-,{ "pid":12345, "tid":2, "ts":1687267630420484, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630420588, "dur":928, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1687267630420586, "dur":931, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1687267630421517, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630421650, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630421759, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422005, "dur":79, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422092, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422331, "dur":317, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422648, "dur":108, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422759, "dur":175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422758, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":2, "ts":1687267630422937, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630427863, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630423331, "dur":4598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":2, "ts":1687267630428065, "dur":3606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level2.resS" }}
-,{ "pid":12345, "tid":2, "ts":1687267630434327, "dur":1086, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1687267630431772, "dur":4388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":2, "ts":1687267630436236, "dur":146104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630398563, "dur":7987, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630406555, "dur":2230, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630408786, "dur":9735, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630418522, "dur":626, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1687267630419148, "dur":529, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630419734, "dur":454, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420189, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420251, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\FbxBuildTestAssets.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420248, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/FbxBuildTestAssets.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420392, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420502, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420501, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Csg.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420690, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420789, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Csg.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420856, "dur":697, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630420854, "dur":700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630421555, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630421681, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630421816, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630421965, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422081, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422242, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422411, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422406, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422552, "dur":278, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422844, "dur":14660, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":3, "ts":1687267630422843, "dur":14664, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":3, "ts":1687267630437508, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1687267630437692, "dur":144649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630397815, "dur":8512, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630406336, "dur":1957, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630408293, "dur":10230, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630418535, "dur":688, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
-,{ "pid":12345, "tid":4, "ts":1687267630418524, "dur":700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":4, "ts":1687267630419225, "dur":745, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630419997, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
-,{ "pid":12345, "tid":4, "ts":1687267630419996, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":4, "ts":1687267630420081, "dur":364, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630420454, "dur":514, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Formats.Fbx.Runtime.dll" }}
-,{ "pid":12345, "tid":4, "ts":1687267630420451, "dur":519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.Formats.Fbx.Runtime.dll" }}
-,{ "pid":12345, "tid":4, "ts":1687267630420971, "dur":356, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630421346, "dur":515, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630421879, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630422027, "dur":90, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1687267630422130, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630422309, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1687267630422470, "dur":19493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets2.assets.resS" }}
-,{ "pid":12345, "tid":4, "ts":1687267630442000, "dur":140321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630397946, "dur":8398, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630406348, "dur":1939, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630408288, "dur":10236, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630418526, "dur":854, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":5, "ts":1687267630419381, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630419594, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":5, "ts":1687267630419576, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":5, "ts":1687267630419745, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630419862, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630419960, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630420127, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630420230, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630420398, "dur":486, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":5, "ts":1687267630420395, "dur":490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":5, "ts":1687267630420886, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421009, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421114, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421221, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421342, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421451, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421562, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421688, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630421890, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630422018, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1687267630422091, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630422205, "dur":175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630422397, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1687267630422585, "dur":7127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1687267630429809, "dur":6202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level1" }}
-,{ "pid":12345, "tid":5, "ts":1687267630436065, "dur":146247, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630398205, "dur":8153, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630406364, "dur":2045, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630408410, "dur":10104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630418537, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
-,{ "pid":12345, "tid":6, "ts":1687267630418516, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":6, "ts":1687267630418855, "dur":687, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630419571, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":6, "ts":1687267630419761, "dur":271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420048, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420207, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420432, "dur":210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Polybrush.dll" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420429, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.Polybrush.dll" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420644, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420761, "dur":75, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.Polybrush.dll" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420841, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TerrainTools.dll" }}
-,{ "pid":12345, "tid":6, "ts":1687267630420837, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.TerrainTools.dll" }}
-,{ "pid":12345, "tid":6, "ts":1687267630421038, "dur":380, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630421463, "dur":357, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630421838, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630421992, "dur":56, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1687267630422057, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630422229, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630434330, "dur":1130, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1687267630422531, "dur":12947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":6, "ts":1687267630435582, "dur":146745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630398350, "dur":8027, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630406401, "dur":2016, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630408418, "dur":10051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630418532, "dur":545, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":7, "ts":1687267630418509, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419079, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419246, "dur":170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419244, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419418, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419515, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419651, "dur":267, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630419935, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630420081, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630420179, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":7, "ts":1687267630420242, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630420386, "dur":807, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":7, "ts":1687267630420383, "dur":812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421195, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421299, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421410, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421514, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421631, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421735, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630421907, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630422034, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1687267630422098, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630422213, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630428635, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1687267630422438, "dur":6285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets3.assets.resS" }}
-,{ "pid":12345, "tid":7, "ts":1687267630428855, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level2" }}
-,{ "pid":12345, "tid":7, "ts":1687267630431797, "dur":4060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":7, "ts":1687267630435963, "dur":146347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1687267630397593, "dur":8727, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1687267630406324, "dur":12140, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1687267630418531, "dur":224, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1687267630418800, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
-,{ "pid":12345, "tid":8, "ts":1687267630418999, "dur":16765, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":8, "ts":1687267630435825, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1687267630436004, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1687267630418798, "dur":17837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":8, "ts":1687267630437116, "dur":75, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1687267630574602, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1687267630437934, "dur":136744, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":8, "ts":1687267630580527, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
-,{ "pid":12345, "tid":8, "ts":1687267630580526, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/boot.config" }}
-,{ "pid":12345, "tid":8, "ts":1687267630580669, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/boot.config" }}
-,{ "pid":12345, "tid":9, "ts":1687267630398512, "dur":7921, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630407068, "dur":522, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1687267630406439, "dur":2498, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630408938, "dur":9573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630418512, "dur":328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":9, "ts":1687267630418842, "dur":462, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419315, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419451, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419607, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419593, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward.exe" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419686, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419754, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630419919, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630420025, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630420149, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630420274, "dur":602, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":9, "ts":1687267630420271, "dur":606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":9, "ts":1687267630420878, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630420994, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421097, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421218, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421349, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421459, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421581, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421694, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421825, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630421931, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630422034, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1687267630422172, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630422380, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630427774, "dur":120, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1687267630422558, "dur":5356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":9, "ts":1687267630428013, "dur":3872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level3" }}
-,{ "pid":12345, "tid":9, "ts":1687267630431954, "dur":150360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630399029, "dur":7558, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630406592, "dur":2071, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630408663, "dur":9863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630418527, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":10, "ts":1687267630419138, "dur":466, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630419613, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":10, "ts":1687267630419756, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630419906, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630420138, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630420255, "dur":514, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
-,{ "pid":12345, "tid":10, "ts":1687267630420251, "dur":519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Cinemachine.dll" }}
-,{ "pid":12345, "tid":10, "ts":1687267630420770, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630420877, "dur":564, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
-,{ "pid":12345, "tid":10, "ts":1687267630420876, "dur":566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Stl.dll" }}
-,{ "pid":12345, "tid":10, "ts":1687267630421443, "dur":600, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630422054, "dur":278, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630422345, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1687267630422587, "dur":4693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":10, "ts":1687267630427446, "dur":1943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level3.resS" }}
-,{ "pid":12345, "tid":10, "ts":1687267630429471, "dur":2357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level1.resS" }}
-,{ "pid":12345, "tid":10, "ts":1687267630431964, "dur":2114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":10, "ts":1687267630434153, "dur":148155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630399109, "dur":7497, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630406610, "dur":1122, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630407733, "dur":10779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630418513, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":11, "ts":1687267630418700, "dur":543, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630419267, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":11, "ts":1687267630419434, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630419600, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630419582, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630419802, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630419952, "dur":226, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420233, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420372, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Autodesk.Fbx.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420368, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Autodesk.Fbx.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420718, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420824, "dur":65, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Autodesk.Fbx.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420892, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630420890, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630422507, "dur":4144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":11, "ts":1687267630426756, "dur":3278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":11, "ts":1687267630430121, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level0" }}
-,{ "pid":12345, "tid":11, "ts":1687267630433032, "dur":149286, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630399322, "dur":7300, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630406622, "dur":11881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630418535, "dur":485, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
-,{ "pid":12345, "tid":12, "ts":1687267630418509, "dur":513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":12, "ts":1687267630419024, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630419382, "dur":574, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
-,{ "pid":12345, "tid":12, "ts":1687267630419379, "dur":578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":12, "ts":1687267630419958, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630420146, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630420267, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":12, "ts":1687267630420264, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":12, "ts":1687267630420444, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630420549, "dur":460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\sonic\\OneDrive\\Belgeler\\GitHub\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":12, "ts":1687267630420548, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421011, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421160, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421281, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421417, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421514, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421630, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421730, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421842, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630421954, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630422112, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630422245, "dur":236, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1687267630422481, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1687267630422561, "dur":4520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":12, "ts":1687267630427251, "dur":2587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/resources.assets" }}
-,{ "pid":12345, "tid":12, "ts":1687267630429916, "dur":3000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/sonic/OneDrive/Masast/shoreward/Shoreward_Data/level0.resS" }}
-,{ "pid":12345, "tid":12, "ts":1687267630432977, "dur":149329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1687267630590585, "dur":1717, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1689631090343380, "dur":1243, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090344633, "dur":104, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090344771, "dur":443, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090345229, "dur":3284, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090348515, "dur":151511, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090500027, "dur":79, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090500107, "dur":107, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090500400, "dur":2170, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1689631090345529, "dur":3055, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090348586, "dur":909, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090349495, "dur":3495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090352992, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1689631090353988, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1689631090355892, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1689631090356542, "dur":566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1689631090357210, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward.exe" }}
+,{ "pid":12345, "tid":1, "ts":1689631090358144, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1689631090358564, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1689631090360111, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090362254, "dur":859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090363189, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090364160, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090364244, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090365085, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090365177, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090366803, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090366866, "dur":977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090367926, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090369407, "dur":1218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090370665, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090370729, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090372634, "dur":3222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090376012, "dur":3382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090379483, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090379648, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090384482, "dur":226, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090384723, "dur":4145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090388924, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1689631090389161, "dur":16777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1689631090406012, "dur":4018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1689631090410125, "dur":89660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090345313, "dur":3246, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090348561, "dur":822, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090349384, "dur":3620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090353005, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1689631090353159, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090369149, "dur":977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1689631090370163, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090370260, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.Formats.Fbx.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090372019, "dur":2905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090375029, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090375128, "dur":2773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090377955, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090378048, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090381819, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090381913, "dur":3746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090385727, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090385797, "dur":9693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090395578, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1689631090395686, "dur":9064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1689631090405329, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1689631090407672, "dur":92158, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090345354, "dur":3213, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090348569, "dur":799, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090349368, "dur":3628, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090352998, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1689631090353132, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090361179, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1689631090362327, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090363394, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090363482, "dur":1324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090364906, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090366022, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090366993, "dur":909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090367993, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090369559, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090369687, "dur":1161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Autodesk.Fbx.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090370993, "dur":2505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.TerrainTools.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090373542, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090373617, "dur":2620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090376361, "dur":3187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090379600, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090383725, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090379673, "dur":4293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090384039, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090384213, "dur":4611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090388902, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1689631090389164, "dur":16836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1689631090406088, "dur":3852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1689631090409990, "dur":89787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090345305, "dur":3247, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090348556, "dur":810, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090349366, "dur":3642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090353010, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1689631090353173, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090369788, "dur":874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1689631090370703, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090370769, "dur":2347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689631090373163, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090373286, "dur":2536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689631090375863, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090375937, "dur":3089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689631090379076, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090384122, "dur":151, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090379250, "dur":5033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689631090384343, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090384730, "dur":3937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689631090388728, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090388925, "dur":14000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1689631090403023, "dur":1257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1689631090404419, "dur":3770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1689631090408234, "dur":91555, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689631090345284, "dur":3263, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689631090348549, "dur":4436, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353003, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353117, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353236, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353468, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353531, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353586, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353639, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353845, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TerrainTools.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353909, "dur":283, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354193, "dur":142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354336, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354442, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Polybrush.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354504, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354603, "dur":215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354866, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354927, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090354979, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090355167, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090355225, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\UnityProjects\\Shoreward\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1689631090353116, "dur":2407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1689631090356020, "dur":129546, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1689631090491870, "dur":6828, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1689631090491869, "dur":6831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1689631090498721, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1689631090345334, "dur":3229, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090348565, "dur":771, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090349336, "dur":3677, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090353013, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1689631090353190, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090370861, "dur":878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1689631090371790, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090371874, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689631090374635, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090374792, "dur":2400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689631090377275, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090377359, "dur":4042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689631090381528, "dur":4210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689631090385799, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090385885, "dur":13007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689631090399002, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1689631090399105, "dur":7139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1689631090406301, "dur":93687, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689631090345477, "dur":3094, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689631090348573, "dur":810, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689631090349383, "dur":3626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689631090353020, "dur":239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1689631090353010, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1689631090353260, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689631090386990, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1689631090389608, "dur":697, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1689631090390339, "dur":13152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1689631090403915, "dur":4423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1689631090408418, "dur":91470, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090345501, "dur":3074, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090348577, "dur":792, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090349369, "dur":3636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090353007, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1689631090353216, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090394380, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090387053, "dur":7407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1689631090394536, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090394679, "dur":10594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1689631090409675, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1689631090405334, "dur":4411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1689631090409790, "dur":90261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689631090345522, "dur":3058, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689631090348582, "dur":841, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689631090349424, "dur":3570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689631090353007, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1689631090352997, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1689631090353182, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689631090384858, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1689631090386126, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1689631090386226, "dur":13489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1689631090399877, "dur":4744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1689631090404835, "dur":521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level2.resS" }}
+,{ "pid":12345, "tid":9, "ts":1689631090405374, "dur":4321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level2.resS" }}
+,{ "pid":12345, "tid":9, "ts":1689631090409799, "dur":90067, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689631090345547, "dur":3041, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689631090348590, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689631090348782, "dur":4219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689631090353001, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1689631090353174, "dur":203, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1689631090386069, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1689631090387954, "dur":17670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1689631090406162, "dur":93604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689631090345572, "dur":3021, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689631090348593, "dur":4399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689631090353005, "dur":218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1689631090352995, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1689631090353224, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689631090387415, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1689631090389608, "dur":615, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689631090390231, "dur":895, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1689631090391131, "dur":13497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1689631090404698, "dur":5503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1689631090410240, "dur":89538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090345583, "dur":3015, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090348598, "dur":4390, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090353029, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1689631090352992, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1689631090353197, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090370148, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1689631090371595, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090371711, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689631090374334, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090374437, "dur":2503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689631090376993, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090377065, "dur":3097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689631090380233, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090380315, "dur":4023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689631090384394, "dur":315, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090384726, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689631090387794, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1689631090387862, "dur":13002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1689631090400924, "dur":3957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1689631090404966, "dur":3172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level2" }}
+,{ "pid":12345, "tid":12, "ts":1689631090408186, "dur":91601, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090345603, "dur":3000, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090348603, "dur":4386, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090352992, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1689631090353181, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090371229, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1689631090372146, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090372219, "dur":2894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689631090375234, "dur":2921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689631090378239, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090378504, "dur":4027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689631090382674, "dur":4066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689631090386794, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1689631090386877, "dur":14173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1689631090401147, "dur":6930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1689631090408119, "dur":91674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090345624, "dur":2985, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090348609, "dur":4397, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090353018, "dur":192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":14, "ts":1689631090353007, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1689631090353211, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090370508, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1689631090371422, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090371543, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090373764, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090373908, "dur":2509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090376466, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090376604, "dur":4939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090381598, "dur":297, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090381917, "dur":3982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090385953, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090385952, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090386102, "dur":13530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090399691, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1689631090399815, "dur":6325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1689631090406199, "dur":93666, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090345648, "dur":2967, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090348616, "dur":4373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090353003, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1689631090352992, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1689631090353154, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090368571, "dur":961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1689631090369574, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090369691, "dur":1348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090371086, "dur":269, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090371370, "dur":2540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090373963, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090374133, "dur":2624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090376878, "dur":3592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090380594, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090380690, "dur":4598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090385340, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090390225, "dur":893, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090385430, "dur":5802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090391391, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090391529, "dur":11072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1689631090407074, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1689631090402974, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1689631090407328, "dur":92536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689631090345667, "dur":2953, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689631090348621, "dur":4378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689631090353009, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":16, "ts":1689631090353000, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1689631090353191, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689631090383335, "dur":1328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1689631090384758, "dur":295, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689631090385091, "dur":5170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689631090390322, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1689631090390471, "dur":14584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1689631090405142, "dur":4276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1689631090409460, "dur":90420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090345707, "dur":2918, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090348625, "dur":4368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090352994, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1689631090353121, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090354498, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1689631090355904, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090355902, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090356142, "dur":793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090356984, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090356983, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090357105, "dur":2729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090360092, "dur":2313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090362440, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090362512, "dur":1127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090363674, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090363761, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090364752, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090364857, "dur":693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090365582, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090365714, "dur":1355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090367115, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090367280, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090368134, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090368211, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090370009, "dur":1665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090371717, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090371792, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090374648, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090374797, "dur":2942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090377789, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090377884, "dur":4756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090382695, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090382844, "dur":4323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090387490, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090387646, "dur":13622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1689631090406822, "dur":318, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1689631090401409, "dur":5841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":17, "ts":1689631090407411, "dur":92546, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090345721, "dur":2906, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090348628, "dur":4358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090353003, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090353131, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090360577, "dur":758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/app.info" }}
+,{ "pid":12345, "tid":18, "ts":1689631090361431, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090363481, "dur":744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090364336, "dur":964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090365397, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090366646, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090367726, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/FbxBuildTestAssets.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090368727, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090368894, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090370072, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090370263, "dur":1865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.Polybrush.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090372173, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090372243, "dur":3207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090375496, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090375595, "dur":3169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090378851, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090383991, "dur":181, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090378932, "dur":5678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090384888, "dur":165, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090385087, "dur":9893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090395062, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1689631090395193, "dur":9962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1689631090405253, "dur":2670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level0.resS" }}
+,{ "pid":12345, "tid":18, "ts":1689631090407967, "dur":91932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1689631090345778, "dur":2853, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1689631090348632, "dur":4371, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1689631090353022, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1689631090353011, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1689631090353205, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1689631090385623, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1689631090387119, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1689631090387396, "dur":12363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1689631090399892, "dur":3535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1689631090403606, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1689631090407957, "dur":91804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090345799, "dur":2837, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090348637, "dur":4361, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090353006, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1689631090353167, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090369560, "dur":789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1689631090370452, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":20, "ts":1689631090372181, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090372246, "dur":2826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1689631090375184, "dur":2865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1689631090378130, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090378198, "dur":4006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1689631090382351, "dur":3828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1689631090386235, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090386311, "dur":18813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1689631090407819, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1689631090405190, "dur":2751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ecesu/Masast/Shoreward/Shoreward_Data/level1" }}
+,{ "pid":12345, "tid":20, "ts":1689631090407992, "dur":91903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1689631090505704, "dur":1515, "ph":"X", "name": "ProfilerWriteOutput" }
 ,

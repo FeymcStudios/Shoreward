@@ -53,25 +53,25 @@
     <UnityVersion>2022.3.2f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraSystem.cs" />
-    <Compile Include="Assets\Scripts\NpcAI.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyAI.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Core\Option.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Core\SubOption.cs" />
-    <Compile Include="Assets\Scripts\ExitGame.cs" />
-    <Compile Include="Assets\Scripts\characterController2.cs" />
+    <Compile Include="Assets\Scripts\Character\characterController2.cs" />
     <Compile Include="Assets\Prefabs\AQUAS-Lite\Scripts\AQUAS_Lite_Camera.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Core\KeyboardMouseInput.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Helpers\MenuToggler.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Core\GraphicSettingDataContainer.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Helpers\GraphicSettingHelperMethods.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
     <Compile Include="Assets\Prefabs\AQUAS-Lite\Scripts\AQUAS_Lite_Reflection.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Options\QualityLevelOption.cs" />
-    <Compile Include="Assets\Scripts\npcKod.cs" />
     <Compile Include="Assets\Prefabs\AQUAS-Lite\Scripts\AQUAS_Lite_CamNav.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Demo\Scripts\CameraController.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Core\XML\XmlManager.cs" />
@@ -79,37 +79,36 @@
     <Compile Include="Assets\Scripts\movement2.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Options\ScreenmodeOption.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Options\ResolutionOption.cs" />
-    <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Demo\Scripts\CubeController.cs" />
     <Compile Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Scripts\Manager\GraphicMenuManager.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro.cginc" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Prefabs\AQUAS-Lite\Shaders\AQUAS-Lite_Frontface.shader" />
     <None Include="Assets\Prefabs\AQUAS-Lite\Readme.txt" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\BrokenVector\LowPolyTreePack\README.txt" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Models\BrokenVector\LowPolyTreePack\README.txt" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Prefabs\AQUAS-Lite\Shaders\AQUAS-Lite_Backface.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Prefabs\AkshayDhotre\GraphicSettingsFree\Readme.txt" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Models\BrokenVector\Tree_Textures\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
